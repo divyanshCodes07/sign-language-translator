@@ -19,4 +19,3 @@ This project is a real-time American Sign Language (ASL) Translator built using 
    
     ![Screenshot 2025-05-06 100212](https://github.com/user-attachments/assets/0da20c47-c941-4b0e-a218-d7a37b8522da)
 
-
